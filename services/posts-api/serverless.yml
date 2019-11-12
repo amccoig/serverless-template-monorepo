@@ -1,4 +1,4 @@
-service: mono-repo-posts-api
+service: posts-api
 
 plugins:
   - serverless-webpack
