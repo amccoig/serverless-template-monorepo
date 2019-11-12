@@ -1,4 +1,4 @@
-service: mono-repo-users-api
+service: users-api
 
 plugins:
   - serverless-webpack
