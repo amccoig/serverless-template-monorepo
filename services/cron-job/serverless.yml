@@ -1,4 +1,4 @@
-service: mono-repo-cron-job
+service: cron-job
 
 plugins:
   - serverless-webpack
